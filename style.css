@@ -13,3 +13,10 @@ h1 {
 p {
   color: gray;
 }
+
+.box {
+  width: 200px;
+  height: 200px;
+  background: cyan;
+  border-radius: 20px;
+}
